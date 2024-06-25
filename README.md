@@ -7,6 +7,8 @@
 
 * A Unit Test test script using TestNG Framework to ensure the quality of source code
 * The CI (Continuous Integeration) script to apply CI process
+* Demonstrate the source code confliction on pushing 
+
 
 *![TestNG source code](https://github.com/Phuchtq/bankaccount-testng-demo/blob/main/Screenshots/BackAccountTest.png)
 
